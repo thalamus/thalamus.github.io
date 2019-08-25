@@ -20,8 +20,7 @@
 
 title: z3n.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  This is z3n.uk, the homepage of Will Tisdale. Opinions are my own, 
-  hopefully some of my posts might be helpful.
+  The blog of Will Tisdale
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://z3n.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _thalamus

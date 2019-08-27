@@ -1,4 +1,4 @@
 ---
 layout: home
-list_title: Blog Posts
+list_title: Posts
 ---
